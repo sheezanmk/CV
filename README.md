@@ -1,2 +1,0 @@
-# Learning
-Personal Website
